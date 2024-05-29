@@ -53,7 +53,7 @@ const Main = () => {
               {" "}
               <AiFillTwitterCircle />
             </a>
-            <a href="www.linkedin.com/in/anupam-upadhyay-504a1b208" className="text-teal-500 rounded-full hover:text-gray-600">
+            <a href="https://linkedin.com/in/anupam-upadhyay-504a1b208" className="text-teal-500 rounded-full hover:text-gray-600">
               {" "}
               <AiFillLinkedin />
             </a>
