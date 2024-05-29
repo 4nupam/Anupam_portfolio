@@ -40,7 +40,7 @@ const Main = () => {
           <div className="text-center flex-col gap-3 p-10">
             <h2 className="text-4xl py-2 text-teal-400 font-medium  md:text-6xl">
               <sup>&lt;</sup>Anupam<sub>&gt;</sub></h2>
-            <i className="text-1xl text-white py-2 font-bold md:text-2xl">React Developer</i>
+            <i className="text-1xl text-white py-2 font-bold md:text-2xl">Javascript Developer</i>
             <p className="text-base font-medium text-teal-100">
               Experienced front-end developer with a passion for continuous learning and growth.
               Hungry for new opportunities to
