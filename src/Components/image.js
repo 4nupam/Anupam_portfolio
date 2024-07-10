@@ -34,6 +34,11 @@ const data =[
     project_name:"Music App",
     Desc:"I've ingeniously engineered a cutting-edge music application, leveraging the power of HTML, CSS, and JavaScript to demonstrate my advanced skill set and innovative prowess to discerning tech companies",
     Link:"https://musicplayer-lyart.vercel.app/"
+}, {
+    url:web6,
+    project_name:"Ecommerece",
+    Desc:"I have developed a responsive ecommerce website using React, Tailwind CSS, REST API, and Context API. This project integrates backend data seamlessly and ensures a user-friendly experience across devices.",
+    Link:"https://xlusive.vercel.app/"
 }
 ]
 export default data
