@@ -3,7 +3,7 @@ import web2 from '../assests/Screenshot (4).png'
 import web3 from '../assests/Screenshot (5).png'
 import web4 from '../assests/Screenshot (6).png'
 import web5 from '../assests/Screenshot (7).png'
-
+import web6 from '../assests/Screenshot (11).png'
 
 const data =[
 {
