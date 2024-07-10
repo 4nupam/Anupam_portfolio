@@ -12,7 +12,7 @@ import code from '../assests/code.png'
 import background from '../assests/background.png'
 import Skill from "./Skill.js";
 
-import cv from "../assests/Anupam_Upadhyay_cv.pdf"
+import cv from "../assests/Anupam_Frontend.pdf"
 
 const Main = () => {
 
