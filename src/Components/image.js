@@ -4,6 +4,7 @@ import web3 from '../assests/Screenshot (5).png'
 import web4 from '../assests/Screenshot (6).png'
 import web5 from '../assests/Screenshot (7).png'
 import web6 from '../assests/Screenshot (11).png'
+import web7 from'../assests/Screenshot (12).png'
 
 const data =[
 {
@@ -39,6 +40,11 @@ const data =[
     project_name:"Ecommerece",
     Desc:"I have developed a responsive ecommerce website using React, Tailwind CSS, REST API, and Context API. This project integrates backend data seamlessly and ensures a user-friendly experience across devices.",
     Link:"https://xlusive.vercel.app/"
+}, {
+    url:web7,
+    project_name:"Advance Filter App",
+    Desc:"I have developed a responsive filter website using React, CSS, and a custom database. This project showcases my skills in implementing various types of filters and highlights my proficiency in front-end development and database integration. 
+    Link:"https://advance-filter-three.vercel.app/"
 }
 ]
 export default data
