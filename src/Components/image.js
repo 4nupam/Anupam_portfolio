@@ -43,7 +43,7 @@ const data =[
 }, {
     url:web7,
     project_name:"Advance Filter App",
-    Desc:"I have developed a responsive filter website using React, CSS, and a custom database. This project showcases my skills in implementing various types of filters and highlights my proficiency in front-end development and database integration. 
+    Desc:"I have developed a responsive filter website using React, CSS, and a custom database. This project showcases my skills in implementing various types of filters and highlights my proficiency in front-end development and database integration.", 
     Link:"https://advance-filter-three.vercel.app/"
 }
 ]
